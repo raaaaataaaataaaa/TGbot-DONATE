@@ -1,0 +1,13 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database files
+*.dbnode_modules/
+.next/
+dist/
+build/
+*.log
